@@ -12,7 +12,7 @@ To run the web application:
 * Node 
 * JavaScript
 * EJS
-* Bootstrap
+* Tailwind CSS
 * Sass
 * PostgresQL & Sequelize
 
